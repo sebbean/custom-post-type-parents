@@ -1,4 +1,6 @@
 {
+    "name": "sebbean/custom-post-type-parents",
+    "description": "Custom custom post type parents component",    
     "require": {
         
     }
