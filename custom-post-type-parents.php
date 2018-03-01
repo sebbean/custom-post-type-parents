@@ -80,7 +80,7 @@ class Custom_Post_Type_Parents {
      *
      * @var    string
      */
-    protected $options;
+    public $options;
 
     /**
      * Args for fetching post types.
